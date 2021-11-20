@@ -2,9 +2,9 @@
 <br>
 
 <p align = "center">
-  <img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/coolcoder22/competition" width = 200>
-  <img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/coolcoder22/notebook" width = 200>
-  <img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/coolcoder22/discussion" width = 200>
+  <img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/coolcoder22/competition" width = 220>
+  <img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/coolcoder22/notebook" width = 220>
+  <img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/coolcoder22/discussion" width = 220>
   
   <br>
   <img src = "https://github-readme-stats.vercel.app/api?username=hiteshgorana&show_icons=true&theme=bear" width = 400>
